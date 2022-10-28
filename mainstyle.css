@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(/background\ img.png);
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+body{
+    text-align: center;
+    justify-content: center;
+    
+}
+div a{
+    
+    padding-top: 40%;
+    background-image: none;
+    text-decoration: none;
+    color: rgb(52, 47, 47);
+    font-size: 4rem;
+    line-height: 2px;
+    position: absolute;
+    font-weight: 600;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%)translateY(-50%);
+}
